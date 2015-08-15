@@ -6,12 +6,12 @@ var Taxes = Taxes || {};
 
 Taxes.baseKoujo = 330000; // 住民税基礎控除
 Taxes.huyoKoujo = 330000; // 一人分の扶養控除
-Taxes.taxRate = 0.06; // 住民税率
+Taxes.taxRate = 0.04; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'Hokkaido_H27_budget';
+OpenSpending.time = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
