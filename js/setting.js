@@ -11,7 +11,7 @@ Taxes.taxRate = 0.04; // 住民税率
 var OpenSpending = OpenSpending || {};
 
 OpenSpending.identifier = 'Hokkaido_H27_budget';
-OpenSpending.time = '2015';
+OpenSpending.year = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
